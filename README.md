@@ -1,4 +1,4 @@
-#Kaun banega crorepati
+# Kaun banega crorepati
 Developed the KBC game using C. The program should have the following features:
 1. First of all, primary information, such as the total number of questions, prize money with
 respect to each question, available life lines and intermediate question levels (described
